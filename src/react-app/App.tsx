@@ -31,9 +31,8 @@ function App() {
 					/>
 				</a>
 			</div>
-			<h1 className="band-title">OC3ANS</h1>
-		</>
-		</>
+			   <h1 className="band-title">OC3ANS</h1>
+		   </>
 	);
 }
 
